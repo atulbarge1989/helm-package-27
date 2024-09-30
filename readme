@@ -3,3 +3,16 @@ this is red me file
 https://confluence.mobis.co.kr/pages/viewpageattachments.action?pageId=606363539&sortBy=date&highlight=helm-package-27-master.zip&
 https://confluence.mobis.co.kr/display/PFS/Helm+Chart+Release
 https://jira.mobis.co.kr/browse/PFS-1574
+
+
+
+Changing font usage.
+Remaining feedback points from confluence page.
+Improving UI based on Argo CD and other such websites.(Due to the ODC internet restrictions we are not have access to public UI sites)
+Integrating High Charts License Library.
+Adding more real contents into existing pages .
+Developing more pages and functionalities.
+Integration of YAML with CI/CD.    
+Project details screen rework (Trying to align with Argo CD) .
+Enhance navigation menu - Main Screen development 
+
